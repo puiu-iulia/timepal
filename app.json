@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "TimePal",
+    "slug": "TimePal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "tech.pisoft.timepal"
+    }
+  }
+}
